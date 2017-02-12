@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+    <static-files>
+        <include path="/**.sc" expiration="3d"/>
+        <include path="/**.xml" expiration="3d"/>
+        <include path="/**.jpg" expiration="3d"/>
+        <include path="/**.png" expiration="3d"/>
+        <include path="/**.js" expiration="3d"/>
+        <include path="/**.swf" expiration="3d"/>
+        <include path="/**.zip" expiration="3d"/>
+        <include path="/**.eot" expiration="3d"/>
+        <include path="/**.svg" expiration="3d"/>
+        <include path="/**.ttf" expiration="3d"/>
+        <include path="/**.woff" expiration="3d"/>
+        <include path="/**.ico" expiration="3d"/>
+    </static-files>
+
+    <servlet>
+        <servlet-name>dispatcher</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>dispatcher</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>classpath*:spring.xml</param-value>
+    </context-param>
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+
+</web-app>

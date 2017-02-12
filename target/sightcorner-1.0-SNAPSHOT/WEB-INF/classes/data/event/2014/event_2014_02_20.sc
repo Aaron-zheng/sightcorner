@@ -1,0 +1,5 @@
+最近一天都被刷屏幕，facebook用接近1/10的市值190亿美金收购了whatsapp。
+鸡汤励志也浮出水面：WhatsApp co-founder Brian Acton 在2009年应聘Facebook和Twitter被拒。
+2014_02_20
+但在你要励志鸡汤前，请先查看别人的profile阿，94年斯坦福毕业。后短暂在adobe和苹果做测试和QA。96年开始进yahoo一直做到07年头衔vice president of engineering。09年才开始创业。
+你确定你被fb和tw拒前，也有他这样的经历，所以还是那句话：失败不是成功之母，成功才是成功之母。
