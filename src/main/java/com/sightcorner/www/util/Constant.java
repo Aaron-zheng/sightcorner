@@ -245,6 +245,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_02_06", new ArchiveVO("高并发秒杀的简单优化", "用户大量刷新..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_07", new ArchiveVO("安装Redis", "上官网 https://redis.io/ 选择稳定的版本下载..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_02_14", new ArchiveVO("Class 类文件结构", "Class 文件是以8位字节为基础单位的二进制流。Class 文件格式采用伪结构体来存储，这个结构中只有2种数据类型：无符号数，和表..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
