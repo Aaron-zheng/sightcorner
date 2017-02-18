@@ -190,8 +190,8 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_10_16", new ArchiveVO("我与树莓在纽村打工旅行第49周(10.10~10.16)", "终于到了斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜..."));
 		EVENT_SINGLE_MAP.put("2016_10_23", new ArchiveVO("我与树莓在纽村打工旅行第50周(10.17~10.23)", "我和树莓苦练超久游泳，就是为了在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳，结果..."));
 		EVENT_SINGLE_MAP.put("2016_10_30", new ArchiveVO("我与树莓在纽村打工旅行第51周(10.24~10.30)", "旅行完回来，隔天就开始新工作拔萝卜，结果连中介都做到亏钱不做了..."));
-		EVENT_SINGLE_MAP.put("2016_11_06", new ArchiveVO("我与树莓在纽村打工旅行第52周(10.31~11.06)", " 在不是奇异果季节，去了奇异果之乡蒂普基 (Te Puke) 做奇异果工作..."));
-//		EVENT_SINGLE_MAP.put("2016_11_13", new ArchiveVO("我与树莓在纽村打工旅行第53周(11.07~11.13)", "..."));
+		EVENT_SINGLE_MAP.put("2016_11_06", new ArchiveVO("我与树莓在纽村打工旅行第52周(10.31~11.06)", "在不是奇异果季节，去了奇异果之乡蒂普基 (Te Puke) 做奇异果工作..."));
+		EVENT_SINGLE_MAP.put("2016_11_13", new ArchiveVO("我与树莓在纽村打工旅行第53周(11.07~11.13)", "来，和大型奇异果拍照..."));
 //		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "..."));
@@ -246,6 +246,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_02_07", new ArchiveVO("安装Redis", "上官网 https://redis.io/ 选择稳定的版本下载..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_14", new ArchiveVO("Class 类文件结构", "Class 文件是以8位字节为基础单位的二进制流。Class 文件格式采用伪结构体来存储，这个结构中只有2种数据类型：无符号数，和表..."));
+//        TECHNIQUE_SINGLE_MAP.put("2017_02_15", new ArchiveVO("虚拟机类加载机制", "..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
