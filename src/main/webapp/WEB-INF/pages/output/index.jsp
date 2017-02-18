@@ -62,7 +62,7 @@
 				    </ul>
 				    <div class="article-info"><span>SightCorner | 视角</span></div>
 				    <div class="article-info"><span>粤ICP备15004628号</span></div>
-				    <div class="article-info"><span>2012 - 2016</span></div>
+				    <div class="article-info"><span>2012 - 2017</span></div>
 			    </div>
 			</div>		
 			<div class="span9 offset3 recent-post">
