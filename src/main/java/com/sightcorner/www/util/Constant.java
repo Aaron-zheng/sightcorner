@@ -247,6 +247,7 @@ public class Constant {
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_14", new ArchiveVO("Class 类文件结构", "Class 文件是以8位字节为基础单位的二进制流。Class 文件格式采用伪结构体来存储，这个结构中只有2种数据类型：无符号数，和表..."));
 //        TECHNIQUE_SINGLE_MAP.put("2017_02_15", new ArchiveVO("虚拟机类加载机制", "..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("Bandwagon VPS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
