@@ -97,3 +97,19 @@
 13:31:16,886 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecord" is already enhanced.
 13:31:16,886 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecordTotal" is already enhanced.
 13:31:16,887 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=299 ms, enhance=35 ms, total=334 ms. Consult the log for full details
+12:14:55,411 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+12:14:55,613 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+12:14:55,934 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.AccessRecord" is already enhanced.
+12:14:55,935 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.AccessRecordTotal" is already enhanced.
+12:14:55,951 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.BasePo" is already enhanced.
+12:14:55,951 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecord" is already enhanced.
+12:14:55,952 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecordTotal" is already enhanced.
+12:14:55,952 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=304 ms, enhance=34 ms, total=338 ms. Consult the log for full details
+12:16:41,684 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+12:16:41,852 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+12:16:42,135 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.AccessRecord" is already enhanced.
+12:16:42,136 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.AccessRecordTotal" is already enhanced.
+12:16:42,153 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.BasePo" is already enhanced.
+12:16:42,154 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecord" is already enhanced.
+12:16:42,154 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecordTotal" is already enhanced.
+12:16:42,154 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=264 ms, enhance=36 ms, total=300 ms. Consult the log for full details
