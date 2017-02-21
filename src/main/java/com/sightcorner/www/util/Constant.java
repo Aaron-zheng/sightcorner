@@ -192,7 +192,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_10_30", new ArchiveVO("我与树莓在纽村打工旅行第51周(10.24~10.30)", "旅行完回来，隔天就开始新工作拔萝卜，结果连中介都做到亏钱不做了..."));
 		EVENT_SINGLE_MAP.put("2016_11_06", new ArchiveVO("我与树莓在纽村打工旅行第52周(10.31~11.06)", "在不是奇异果季节，去了奇异果之乡蒂普基 (Te Puke) 做奇异果工作..."));
 		EVENT_SINGLE_MAP.put("2016_11_13", new ArchiveVO("我与树莓在纽村打工旅行第53周(11.07~11.13)", "来，和大型奇异果拍照..."));
-//		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "..."));
+		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "和树莓玩了2天后，她就飞回广州参加朋友的婚礼了，而我只能默默地呆在新西兰..."));
 //		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "..."));
