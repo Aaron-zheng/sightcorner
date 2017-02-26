@@ -249,7 +249,7 @@ public class Constant {
         TECHNIQUE_SINGLE_MAP.put("2017_02_15", new ArchiveVO("虚拟机 Class 类文件的加载机制", "Class 类的生命周期，是从被加载到虚拟机内存开始，到被卸载出内存..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("Bandwagon VPS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("Bandwagon VPS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
-
+		TECHNIQUE_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
