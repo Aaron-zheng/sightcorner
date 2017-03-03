@@ -242,6 +242,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2016_10_25", new ArchiveVO("黑产业白皮书读后感", "朋友推荐，所以特意用了2天时间很快的把这个“黑产白皮书”都浏览一次。在看这本书之前，我一直认为所谓的黑产不外乎什么盗号或者广告的。看完之后，才发现之前的自己真的是 too young too simple..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_02", new ArchiveVO("java.lang.Object 的默认方法", "java.lang.Object..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_04", new ArchiveVO("MySQL安装和创建表时候的知识点", "官网下载，选择 download->community->mysql-x.x.x-macos_64.dmg..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_02_05", new ArchiveVO("初始的 Maven 项目搭建", "普通的 Web 项目搭建，其实通过 maven 基本可以把项目框架配备齐全..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_06", new ArchiveVO("高并发秒杀的简单优化", "用户大量刷新..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_07", new ArchiveVO("安装Redis", "上官网 https://redis.io/ 选择稳定的版本下载..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
@@ -250,6 +251,8 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("Bandwagon VPS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("Bandwagon VPS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_01", new ArchiveVO("Java 内存中的引用（强引用，软引用，弱引用，幻象引用）", "常见的新建一个对象，就是强引用了，这个强引用就不在垃圾回收器的处理列表中..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
