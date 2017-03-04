@@ -42,9 +42,10 @@ alternatives --install /usr/bin/javac javac /opt/jdk1.8.0_121/bin/javac 2
 alternatives --set jar /opt/jdk1.8.0_121/bin/jar
 alternatives --set javac /opt/jdk1.8.0_121/bin/javac
 为环境配置 JAVA_HOME
-vi /etc/environment
+vi /etc/profile
 export JAVA_HOME=/opt/jdk1.8.0_121
 export JRE_HOME=/opt/jdk1.8.0_121/jre
-export PATH=$PATH:/opt/jdk1.8.0_121/bin:/opt/jdk1.8.0_121/jre/bin
+export PATH=$JRE_HOME:$JAVA_HOME:$PATH
+source /etc/profile
 到此 JDK 部分安装完毕。
 </pre>

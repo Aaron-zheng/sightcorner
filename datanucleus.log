@@ -169,3 +169,11 @@
 03:13:53,464 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecord" is already enhanced.
 03:13:53,464 (main) INFO  [DataNucleus.Enhancer] - Class "com.sightcorner.www.po.LikeRecordTotal" is already enhanced.
 03:13:53,465 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=254 ms, enhance=34 ms, total=288 ms. Consult the log for full details
+23:03:08,317 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+23:03:08,562 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+23:03:09,002 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/AccessRecord.class" with enhanced definition
+23:03:09,006 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/AccessRecordTotal.class" with enhanced definition
+23:03:09,029 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/BasePo.class" with enhanced definition
+23:03:09,033 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecord.class" with enhanced definition
+23:03:09,036 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecordTotal.class" with enhanced definition
+23:03:09,037 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=397 ms, enhance=74 ms, total=471 ms. Consult the log for full details

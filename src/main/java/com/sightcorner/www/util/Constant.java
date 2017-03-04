@@ -252,7 +252,9 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("Bandwagon VPS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_01", new ArchiveVO("Java 内存中的引用（强引用，软引用，弱引用，幻象引用）", "常见的新建一个对象，就是强引用了，这个强引用就不在垃圾回收器的处理列表中..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("Bandwagon VPS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
+//        TECHNIQUE_SINGLE_MAP.put("2017_03_04", new ArchiveVO("The Power of Enterprise Architecture Algorithms", ".ABACUS - Algorithm based analysis of complex systems.."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
