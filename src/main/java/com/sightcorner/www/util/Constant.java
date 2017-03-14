@@ -255,6 +255,8 @@ public class Constant {
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("Bandwagon VPS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
 //        TECHNIQUE_SINGLE_MAP.put("2017_03_04", new ArchiveVO("The Power of Enterprise Architecture Algorithms", ".ABACUS - Algorithm based analysis of complex systems.."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("Bandwagon VPS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_14", new ArchiveVO("比特币的两把钥匙", "下载比特币钱包，公开钱包地址，收到比特币。那么如何确定真的收到钱..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 	
