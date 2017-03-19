@@ -185,3 +185,11 @@
 23:04:26,238 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecord.class" with enhanced definition
 23:04:26,240 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecordTotal.class" with enhanced definition
 23:04:26,241 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=302 ms, enhance=74 ms, total=376 ms. Consult the log for full details
+23:47:39,127 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+23:47:39,324 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+23:47:39,669 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/AccessRecord.class" with enhanced definition
+23:47:39,672 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/AccessRecordTotal.class" with enhanced definition
+23:47:39,694 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/BasePo.class" with enhanced definition
+23:47:39,696 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecord.class" with enhanced definition
+23:47:39,699 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/zhengfucheng/Documents/github_workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/com/sightcorner/www/po/LikeRecordTotal.class" with enhanced definition
+23:47:39,699 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=306 ms, enhance=67 ms, total=373 ms. Consult the log for full details
