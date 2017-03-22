@@ -30,12 +30,12 @@ public class Constant {
 	
 	public static final String DATA_FILE="/data";
 	
-	public static final TreeMap<String, ArchiveVO> EVENT_SINGLE_MAP=new TreeMap<String, ArchiveVO>();
-	public static final TreeMap<String, ArchiveVO> ARTICLE_SINGLE_MAP=new TreeMap<String, ArchiveVO>();
-	public static final TreeMap<String, ArchiveVO> TECHNIQUE_SINGLE_MAP=new TreeMap<String, ArchiveVO>();
-	public static final Map<String, MeaningVO> MEANING_SINGLE_MAP=new LinkedHashMap<String, MeaningVO>();
-	public static final Map<String, String> ALBUM_SINGLE_MAP=new LinkedHashMap<String, String>();
-	public static final LinkedHashMap<String, String> ALBUM_LIE_DOWN_ANGLE=new LinkedHashMap<String, String>();
+	public static final TreeMap<String, ArchiveVO> EVENT_SINGLE_MAP=new TreeMap<>();
+	public static final TreeMap<String, ArchiveVO> ARTICLE_SINGLE_MAP=new TreeMap<>();
+	public static final TreeMap<String, ArchiveVO> TECHNIQUE_SINGLE_MAP=new TreeMap<>();
+	public static final Map<String, MeaningVO> MEANING_SINGLE_MAP=new LinkedHashMap<>();
+	public static final Map<String, String> ALBUM_SINGLE_MAP=new LinkedHashMap<>();
+	public static final LinkedHashMap<String, String> ALBUM_LIE_DOWN_ANGLE=new LinkedHashMap<>();
 	static{
 		//article
 		ARTICLE_SINGLE_MAP.put("2009_08", new ArchiveVO("上海-苏州-周庄-西塘-乌镇-杭州", "OH, year!第一次的旅游啊，第一次搭那么远火车的旅游，两个背包客上路了。...", "我们的第一次大旅游","114"));
@@ -193,7 +193,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_11_06", new ArchiveVO("我与树莓在纽村打工旅行第52周(10.31~11.06)", "在不是奇异果季节，去了奇异果之乡蒂普基 (Te Puke) 做奇异果工作..."));
 		EVENT_SINGLE_MAP.put("2016_11_13", new ArchiveVO("我与树莓在纽村打工旅行第53周(11.07~11.13)", "来，和大型奇异果拍照..."));
 		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "和树莓玩了2天后，她就飞回广州参加朋友的婚礼了，而我只能默默地呆在新西兰..."));
-//		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "..."));
+		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "树莓回广州一周了，终于要回来新西兰了，和树莓开始我们的环北岛之行..."));
 //		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_18", new ArchiveVO("我与树莓在纽村打工旅行第58周(12.12~12.18)", "..."));
@@ -248,19 +248,21 @@ public class Constant {
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_14", new ArchiveVO("Class 类文件结构", "Class 文件是以8位字节为基础单位的二进制流。Class 文件格式采用伪结构体来存储，这个结构中只有2种数据类型：无符号数，和表..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_15", new ArchiveVO("虚拟机 Class 类文件的加载机制", "Class 类的生命周期，是从被加载到虚拟机内存开始，到被卸载出内存..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("Bandwagon VPS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("Bandwagon VPS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("CentOS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("CentOS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_01", new ArchiveVO("Java 内存中的引用（强引用，软引用，弱引用，幻象引用）", "常见的新建一个对象，就是强引用了，这个强引用就不在垃圾回收器的处理列表中..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("Bandwagon VPS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("CentOS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
 //        TECHNIQUE_SINGLE_MAP.put("2017_03_04", new ArchiveVO("The Power of Enterprise Architecture Algorithms", "ABACUS - Algorithm based analysis of complex systems..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("Bandwagon VPS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("CentOS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_14", new ArchiveVO("比特币的两把钥匙", "下载比特币钱包，公开钱包地址，收到比特币。那么如何确定真的收到钱..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_15", new ArchiveVO("CentOS 搭建之 Jenkins", "..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_17", new ArchiveVO("系统分析师之计算机组成原理与体系结构", "数据表示 R 进制转十进制使用按权展开法。十进制转 R 进制使用短除法..."));
-//        TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_18", new ArchiveVO("系统分析师之系统配置与性能评价", "时钟频率法，386，486，586 就是 CPU 的芯片频率，即处理速度。现在已经不能作为衡量指标..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
-	
-	
+
+
 }
