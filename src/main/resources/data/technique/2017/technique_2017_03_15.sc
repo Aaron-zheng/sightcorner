@@ -1,4 +1,4 @@
-
+搭建 Jenkins
 <pre>
 修改 tomcat 中的端口号，把8080修改为9090
 cd /opt/tomcat-jenkins/conf

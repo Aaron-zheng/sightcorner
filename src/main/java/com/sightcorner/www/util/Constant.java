@@ -257,10 +257,10 @@ public class Constant {
 //        TECHNIQUE_SINGLE_MAP.put("2017_03_04", new ArchiveVO("The Power of Enterprise Architecture Algorithms", "ABACUS - Algorithm based analysis of complex systems..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("CentOS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_14", new ArchiveVO("比特币的两把钥匙", "下载比特币钱包，公开钱包地址，收到比特币。那么如何确定真的收到钱..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_15", new ArchiveVO("CentOS 搭建之 Jenkins", "..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_03_15", new ArchiveVO("CentOS 搭建之 Jenkins", "修改 tomcat 中的端口号，把8080修改为9090..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_17", new ArchiveVO("系统分析师之计算机组成原理与体系结构", "数据表示 R 进制转十进制使用按权展开法。十进制转 R 进制使用短除法..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_18", new ArchiveVO("系统分析师之系统配置与性能评价", "时钟频率法，386，486，586 就是 CPU 的芯片频率，即处理速度。现在已经不能作为衡量指标..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "用来管理系统的硬件，软件，数据资源。控制程序运行..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
