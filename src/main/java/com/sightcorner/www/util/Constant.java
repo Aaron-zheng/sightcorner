@@ -261,7 +261,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_03_17", new ArchiveVO("系统分析师之计算机组成原理与体系结构", "数据表示 R 进制转十进制使用按权展开法。十进制转 R 进制使用短除法..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_18", new ArchiveVO("系统分析师之系统配置与性能评价", "时钟频率法，386，486，586 就是 CPU 的芯片频率，即处理速度。现在已经不能作为衡量指标..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "用来管理系统的硬件，软件，数据资源。控制程序运行..."));
-//		TECHNIQUE_SINGLE_MAP.put("2017_03_25", new ArchiveVO("系统分析师之数据库系统", "..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_03_25", new ArchiveVO("系统分析师之数据库系统", "外模式（用户视图，视图的模式）-> 概念模式（概念级数据库 + DBA 视图，创建数据库表）-> 内模式（物理数据库 + 内部视图，最终是文件形式存储）..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
