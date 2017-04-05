@@ -15,3 +15,4 @@ hs_err_pid*
 # ignore the folder
 target/
 .idea/
+datanucleus.log
