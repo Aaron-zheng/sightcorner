@@ -264,6 +264,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_03_25", new ArchiveVO("系统分析师之数据库系统", "外模式（用户视图，视图的模式）-> 概念模式（概念级数据库 + DBA 视图，创建数据库表）-> 内模式（物理数据库 + 内部视图，最终是文件形式存储）..."));
         TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 

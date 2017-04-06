@@ -7,32 +7,9 @@
 			<div class="show-content">
 				Aaron 郑富成 <br/>
 				fucheng.zheng#gmail.com
-				<!-- 技术宅，背包旅行族<br/> -->
-				<!-- 籍贯：广州（中共党员）<br/> -->
-				<!-- 教育：仲恺农业工程学院（本科）2008-2012<br/> -->
-				<!-- 任职：HSBC 高级软件工程师<br/> -->
-				<!-- 周末：广州GDG组织者，YiGather志愿者<br/> -->
-				<!-- 手机：13286830294<br/> -->
-				<!-- 年薪：11.5k * 13<br/> -->
 			</div>
 		</div>
 	</div>
-	<!-- 
-	<blockquote>2012.04-2015.10 汇丰软件开发（广东）有限公司 | 高级软件工程师<br/>
-	2011.10-2011.12 北京拓尔思信息技术股份有限公司 | 实习生<br/>
-	2010.03-2011.08 广州市博农讯恺信息技术有限公司 | 实习生<br/>
-	2008.09-2012.06 仲恺农业工程学院 | 本科 | 信息与计算科学
-	</blockquote>
-	 -->
-	<!-- 
-	<blockquote>编程：Java、AS3、QlikView<br/>
-	框架：Hibernate, Spring, Spring-MVC, Struts<br/> 
-	前端：JavaScript、jQuery、Flex<br/>
-	数据库：Oracle、MySQL、MSSQL<br/>
-	服务器：Tomcat、Websphere<br/> 
-	工具：Viso、Enterprise Architect、Oracle modeler<br/>
-	</blockquote>
-	 -->
 	
 	<div class="article">
 		<div class="preview">
