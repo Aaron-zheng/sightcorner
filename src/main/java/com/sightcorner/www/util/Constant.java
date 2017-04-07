@@ -265,6 +265,7 @@ public class Constant {
         TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 Hyperledger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
