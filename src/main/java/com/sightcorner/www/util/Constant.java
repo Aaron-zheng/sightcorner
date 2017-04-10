@@ -194,7 +194,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_11_13", new ArchiveVO("我与树莓在纽村打工旅行第53周(11.07~11.13)", "来，和大型奇异果拍照..."));
 		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "和树莓玩了2天后，她就飞回广州参加朋友的婚礼了，而我只能默默地呆在新西兰..."));
 		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "树莓回广州一周了，终于要回来新西兰了，和树莓开始我们的环北岛之行..."));
-		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "..."));
+		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "傻不拉叽的去了热水沙滩挖洞，然后推荐一个黑水漂进洞的，最后一不小心去了个牛城市..."));
 //		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_18", new ArchiveVO("我与树莓在纽村打工旅行第58周(12.12~12.18)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_25", new ArchiveVO("我与树莓在纽村打工旅行第59周(12.19~12.25)", "..."));
@@ -266,6 +266,7 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 Hyperledger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_09", new ArchiveVO("系统分析师之软件工程", "瀑布模型：要求需求明确。软件计划-需求分析-软件设计-程序编码-软件测试-运行维护..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
