@@ -268,6 +268,8 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 Hyperledger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_09", new ArchiveVO("系统分析师之软件工程", "瀑布模型：要求需求明确。软件计划-需求分析-软件设计-程序编码-软件测试-运行维护..."));
         TECHNIQUE_SINGLE_MAP.put("2017_04_10", new ArchiveVO("系统分析师之需求工程", "软件需求指 用户对系统在功能，行为，性能，设计约束等方面的期望..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_12", new ArchiveVO("系统分析师之软件架构设计", "需求分析-架构（鸿沟）-软件设计..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
