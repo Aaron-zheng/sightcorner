@@ -195,7 +195,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_11_20", new ArchiveVO("我与树莓在纽村打工旅行第54周(11.14~11.20)", "和树莓玩了2天后，她就飞回广州参加朋友的婚礼了，而我只能默默地呆在新西兰..."));
 		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "树莓回广州一周了，终于要回来新西兰了，和树莓开始我们的环北岛之行..."));
 		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "傻不拉叽的去了热水沙滩挖洞，然后推荐一个黑水漂进洞的，最后一不小心去了个牛城市..."));
-//		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "..."));
+		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "等待3天的北岛首领汤加里罗，踏上灰尘覆盖的冰川..."));
 //		EVENT_SINGLE_MAP.put("2016_12_18", new ArchiveVO("我与树莓在纽村打工旅行第58周(12.12~12.18)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_12_25", new ArchiveVO("我与树莓在纽村打工旅行第59周(12.19~12.25)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_01_01", new ArchiveVO("我与树莓在纽村打工旅行第60周(12.26~01.01)", "..."));
@@ -270,6 +270,8 @@ public class Constant {
         TECHNIQUE_SINGLE_MAP.put("2017_04_10", new ArchiveVO("系统分析师之需求工程", "软件需求指 用户对系统在功能，行为，性能，设计约束等方面的期望..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_12", new ArchiveVO("系统分析师之软件架构设计", "需求分析-架构（鸿沟）-软件设计..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("Hyperledger 项目与社区概览", "Hyperledger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_04_17", new ArchiveVO("HyperLedger Fabric 架构解析", "事务隔离通过子账本实现..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
