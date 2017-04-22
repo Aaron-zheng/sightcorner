@@ -1,5 +1,5 @@
 看的是【区块链微讲堂系列】第三讲（上）：HyperLedger Fabric 架构解析
-看的是【区块链微讲堂系列】 第三讲（下）： Bluemix 上的 HyperLedger 服务
+看的是【区块链微讲堂系列】第三讲（下）：Bluemix 上的 HyperLedger 服务
 
 Fabric 0.6 区块链网络
 <pre>

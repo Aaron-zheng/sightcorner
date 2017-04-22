@@ -196,7 +196,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_11_27", new ArchiveVO("我与树莓在纽村打工旅行第55周(11.21~11.27)", "树莓回广州一周了，终于要回来新西兰了，和树莓开始我们的环北岛之行..."));
 		EVENT_SINGLE_MAP.put("2016_12_04", new ArchiveVO("我与树莓在纽村打工旅行第56周(11.28~12.04)", "傻不拉叽的去了热水沙滩挖洞，然后推荐一个黑水漂进洞的，最后一不小心去了个牛城市..."));
 		EVENT_SINGLE_MAP.put("2016_12_11", new ArchiveVO("我与树莓在纽村打工旅行第57周(12.05~12.11)", "等待3天的北岛首领汤加里罗，踏上灰尘覆盖的冰川..."));
-//		EVENT_SINGLE_MAP.put("2016_12_18", new ArchiveVO("我与树莓在纽村打工旅行第58周(12.12~12.18)", "..."));
+		EVENT_SINGLE_MAP.put("2016_12_18", new ArchiveVO("我与树莓在纽村打工旅行第58周(12.12~12.18)", "我和树莓玩完一轮，又要开始工作了，争取从负资产转变为收支平衡..."));
 //		EVENT_SINGLE_MAP.put("2016_12_25", new ArchiveVO("我与树莓在纽村打工旅行第59周(12.19~12.25)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_01_01", new ArchiveVO("我与树莓在纽村打工旅行第60周(12.26~01.01)", "..."));
 //		EVENT_SINGLE_MAP.put("2016_01_08", new ArchiveVO("我与树莓在纽村打工旅行第61周(01.02~01.08)", "..."));
@@ -265,13 +265,14 @@ public class Constant {
         TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 Hyperledger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 HyperLedger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_09", new ArchiveVO("系统分析师之软件工程", "瀑布模型：要求需求明确。软件计划-需求分析-软件设计-程序编码-软件测试-运行维护..."));
         TECHNIQUE_SINGLE_MAP.put("2017_04_10", new ArchiveVO("系统分析师之需求工程", "软件需求指 用户对系统在功能，行为，性能，设计约束等方面的期望..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_12", new ArchiveVO("系统分析师之软件架构设计", "需求分析-架构（鸿沟）-软件设计..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("Hyperledger 项目与社区概览", "Hyperledger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("HyperLedger 项目与社区概览", "HyperLedger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
         TECHNIQUE_SINGLE_MAP.put("2017_04_17", new ArchiveVO("HyperLedger Fabric 架构解析", "事务隔离通过子账本实现..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_04_18", new ArchiveVO("ChainCode 实战", "Fabric Chaincode 概述，目前，这个 SDK 包还是依赖其他模块，不能单独使用..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
