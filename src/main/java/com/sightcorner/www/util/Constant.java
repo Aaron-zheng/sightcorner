@@ -272,7 +272,8 @@ public class Constant {
 		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("HyperLedger 项目与社区概览", "HyperLedger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
         TECHNIQUE_SINGLE_MAP.put("2017_04_17", new ArchiveVO("HyperLedger Fabric 架构解析", "事务隔离通过子账本实现..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_04_18", new ArchiveVO("ChainCode 实战", "Fabric Chaincode 概述，目前，这个 SDK 包还是依赖其他模块，不能单独使用..."));
+        TECHNIQUE_SINGLE_MAP.put("2017_04_18", new ArchiveVO("Chaincode 实战", "Fabric Chaincode 概述，目前，这个 SDK 包还是依赖其他模块，不能单独使用..."));
+		TECHNIQUE_SINGLE_MAP.put("2017_04_23", new ArchiveVO("开放式系统互联的理解（OSI 7层模型和 TCP/IP 的5层模型）", "物理层，电脑连接起来的物理手段。它主要规定了网络的一些电气特性，作用是负责传送0和1的电信号..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
