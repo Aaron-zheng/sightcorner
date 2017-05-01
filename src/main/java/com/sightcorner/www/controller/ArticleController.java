@@ -50,12 +50,17 @@ public class ArticleController {
 				if(content.length() > 0){
 					content.append("\n");
 				}
-				Matcher matcher = Constant.ARTICLE_IMAGE_PATTERN.matcher(tmp);
-				if(matcher.matches()){
-					tmp=matcher.group();
+				Matcher matcher1 = Constant.ARTICLE_IMAGE_PATTERN.matcher(tmp);
+				Matcher matcher2 = Constant.EVENT_IMAGE_PATTERN.matcher(tmp);
+				if(matcher1.matches()){
+					tmp=matcher1.group();
 					tmp="<div class='image-package imagebubble'><img src='/sightcorner/portfolio/" + p + "/fullsize/" + tmp + ".jpg'></img></div>";
 					content.append(tmp);
-				}else{
+				} else if (matcher2.matches()) {
+                    tmp=matcher2.group();
+                    tmp="<div class='image-package imagebubble'><img src='/sightcorner/portfolio/" + p + "/fullsize/" + tmp + ".jpg'></img></div>";
+                    content.append(tmp);
+                } else{
 					content.append("<p>").append(tmp).append("</p>");
 				}
 			}
