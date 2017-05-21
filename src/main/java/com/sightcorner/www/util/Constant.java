@@ -202,9 +202,8 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2016_12_25", new ArchiveVO("我与树莓在纽村打工旅行第59周(12.19~12.25)", "这周开始，树莓也被警告了，如果再摘不够，她也会被炒了..."));
 		EVENT_SINGLE_MAP.put("2017_01_01", new ArchiveVO("我与树莓在纽村打工旅行第60周(12.26~01.01)", "在新西兰呆了那么久，树莓的好朋友-啊少，也要来新西兰玩啦，所以我和树莓当然也要尽一下地主之谊。（我和树莓，一共接待了3次我们来自广州的朋友，哈）..."));
 		EVENT_SINGLE_MAP.put("2017_01_08", new ArchiveVO("我与树莓在纽村打工旅行第61周(01.02~01.08)", "摘樱桃的季节一般都会伴随着雨天，但是下雨就不可以摘樱桃。一般是等下雨过后，有钱的果园就会出动直升机，在果园的上空盘旋..."));
-//		EVENT_SINGLE_MAP.put("2017_01_15", new ArchiveVO("我与树莓在纽村打工旅行第62周(01.09~01.15)", "..."));
+		EVENT_SINGLE_MAP.put("2017_01_15", new ArchiveVO("我与树莓在纽村打工旅行第62周(01.09~01.15)", "上回说到，我和树莓从摘樱桃的大厂走了。原因是，树莓在摘樱桃那里赚不了钱，树莓说，8小时赚最低时薪，倒不如直接去樱桃包装厂站12小时..."));
 //		EVENT_SINGLE_MAP.put("2017_01_22", new ArchiveVO("我与树莓在纽村打工旅行第63周(01.16~01.22)", "..."));
-//		EVENT_SINGLE_MAP.put("2017_01_29", new ArchiveVO("我与树莓在纽村打工旅行第64周(01.23~01.29)", "..."));
 		EVENT_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
 //		EVENT_SINGLE_MAP.put("", new ArchiveVO("", ""));
 		
@@ -263,18 +262,18 @@ public class Constant {
 //      TECHNIQUE_SINGLE_MAP.put("2017_03_18", new ArchiveVO("系统分析师之系统配置与性能评价", "时钟频率法，386，486，586 就是 CPU 的芯片频率，即处理速度。现在已经不能作为衡量指标..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "用来管理系统的硬件，软件，数据资源。控制程序运行..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_25", new ArchiveVO("系统分析师之数据库系统", "外模式（用户视图，视图的模式）-> 概念模式（概念级数据库 + DBA 视图，创建数据库表）-> 内模式（物理数据库 + 内部视图，最终是文件形式存储）..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
+//      TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 HyperLedger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_09", new ArchiveVO("系统分析师之软件工程", "瀑布模型：要求需求明确。软件计划-需求分析-软件设计-程序编码-软件测试-运行维护..."));
 //      TECHNIQUE_SINGLE_MAP.put("2017_04_10", new ArchiveVO("系统分析师之需求工程", "软件需求指 用户对系统在功能，行为，性能，设计约束等方面的期望..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_12", new ArchiveVO("系统分析师之软件架构设计", "需求分析-架构（鸿沟）-软件设计..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("HyperLedger 项目与社区概览", "HyperLedger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_04_17", new ArchiveVO("HyperLedger Fabric 架构解析", "事务隔离通过子账本实现..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_04_18", new ArchiveVO("Chaincode 实战", "Fabric Chaincode 概述，目前，这个 SDK 包还是依赖其他模块，不能单独使用..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_23", new ArchiveVO("开放式系统互联的理解（OSI 7层模型和 TCP/IP 的5层模型）", "物理层，电脑连接起来的物理手段。它主要规定了网络的一些电气特性，作用是负责传送0和1的电信号..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_04_15", new ArchiveVO("区块链商用之道", "数字货币（区块链v1）digital currency，区块链货币（例如比特币）..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_04_16", new ArchiveVO("HyperLedger 项目与社区概览", "HyperLedger Projects: Blockchain Explorer -> Fabric, STL, Iroha -> Cello..."));
+// 		TECHNIQUE_SINGLE_MAP.put("2017_04_17", new ArchiveVO("HyperLedger Fabric 架构解析", "事务隔离通过子账本实现..."));
+//      TECHNIQUE_SINGLE_MAP.put("2017_04_18", new ArchiveVO("Chaincode 实战", "Fabric Chaincode 概述，目前，这个 SDK 包还是依赖其他模块，不能单独使用..."));
+ 		TECHNIQUE_SINGLE_MAP.put("2017_04_23", new ArchiveVO("开放式系统互联的理解（OSI 7层模型和 TCP/IP 的5层模型）", "物理层，电脑连接起来的物理手段。它主要规定了网络的一些电气特性，作用是负责传送0和1的电信号..."));
 //		TECHNIQUE_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 	}
 
