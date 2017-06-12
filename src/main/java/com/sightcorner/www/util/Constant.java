@@ -205,8 +205,17 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2017_01_15", new ArchiveVO("我与树莓在纽村打工旅行第62周(01.09~01.15)", "上回说到，我和树莓从摘樱桃的大厂走了。原因是，树莓在摘樱桃那里赚不了钱，树莓说，8小时赚最低时薪，倒不如直接去樱桃包装厂站12小时..."));
 		EVENT_SINGLE_MAP.put("2017_01_22", new ArchiveVO("我与树莓在纽村打工旅行第63周(01.16~01.22)", "上午完成跳伞，下午就去蹦级..."));
         EVENT_SINGLE_MAP.put("2017_01_29", new ArchiveVO("我与树莓在纽村打工旅行第64周(01.23~01.29)", "我们的旅程从，2015年11月11日在广州踏上旅途开始，到，2017年1月26号在奥克兰踏上归途结束。跨过了3个年份，15个月，64篇周记。感谢有你们，还好有你们，真的。谢谢！（弯腰90度致谢）..."));
+        EVENT_SINGLE_MAP.put("2017_02_02", new ArchiveVO("春节的亲戚小聚会", "现在年纪大了，发现自己有点期待春节"));
+        EVENT_SINGLE_MAP.put("2017_02_22", new ArchiveVO("入职我的人生第二间公司", "回到广州有1个月了，过完春节后，就拼命找工作了..."));
 		EVENT_SINGLE_MAP.put("2017_02_25", new ArchiveVO("互联网交易型银行读后感", "最近在读《互联网交易型银行》这本书，记录下一些读后感..."));
-//		EVENT_SINGLE_MAP.put("", new ArchiveVO("", ""));
+        EVENT_SINGLE_MAP.put("2017_03_10", new ArchiveVO("汇丰老同事聚会", "好久没有见老同事了"));
+        EVENT_SINGLE_MAP.put("2017_03_11", new ArchiveVO("和树莓的家人去旅游", "第一次和树莓家人，一起去旅游。其实严格点说，应该是去度假"));
+//        EVENT_SINGLE_MAP.put("2017_03_21", new ArchiveVO("树莓生日快乐又来了", ""));
+//        EVENT_SINGLE_MAP.put("2017_04_29", new ArchiveVO("树莓的表姐的宝宝满周岁了", ""));
+//        EVENT_SINGLE_MAP.put("2017_05_01", new ArchiveVO("第一次玩射箭", ""));
+//        EVENT_SINGLE_MAP.put("2017_05_08", new ArchiveVO("招待我们的马来西亚朋友siewyee", ""));
+//        EVENT_SINGLE_MAP.put("2017_06_04", new ArchiveVO("和表姐表妹聚下", ""));
+//		EVENT_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 		
 		//technique
 		TECHNIQUE_SINGLE_MAP.put("2013_06_10", new ArchiveVO("星型数据库","数据仓库的建立是为了某群体提供决策服务的..."));
