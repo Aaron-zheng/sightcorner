@@ -103,14 +103,21 @@
 				{},
 				function(map){
 					var str = '';
+                    var record = 0;
 					for(var key in map){
 						str += '<li>';
 						str += '<a class="title" href="'+tag+'/'+key+'">' + map[key].title + '</a>';
 						str += '<p>' + map[key].description + '</p>';
 						str += '<div class="article-info"><date class="date"><i class="icon-time"></i>' + key.replace(/_/g,'-') + '</date></div>';
 						str += '</li>';
+
+                        record++;
+                        if(record == 10) {
+                            $('#list-data').html(str);
+                            str = '';
+                        }
 					}
-					$('#list-data').html(str);
+					$('#list-data').append(str);
 				}
 			);
 		}
