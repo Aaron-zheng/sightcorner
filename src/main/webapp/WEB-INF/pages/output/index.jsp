@@ -16,8 +16,11 @@
 							<img quality="100" src="${pageContext.request.contextPath}/sightcorner/asset/profile.jpg" thumbnail="90x90">
 						</div>
 						<h3>
-							<a>Aaron</a>
+							<a>郑富成</a>
 						</h3>
+						<h4>
+							<a>Aaron</a>
+						</h4>
 						<div class="btn-group">
 							<a class="btn btn-small btn-success follow" data-signin-link="true" data-toggle="modal" href="#" id="like_button">
 								<i class="icon-plus icon-ok"></i>喜欢

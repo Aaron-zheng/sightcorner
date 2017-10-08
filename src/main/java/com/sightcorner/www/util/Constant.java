@@ -213,8 +213,14 @@ public class Constant {
         EVENT_SINGLE_MAP.put("2017_03_21", new ArchiveVO("树莓生日快乐又来了", "一年一度的，树莓破蛋日又来了..."));
         EVENT_SINGLE_MAP.put("2017_04_29", new ArchiveVO("树莓的表姐的宝宝满周岁了", "树莓的表姐的宝宝出生一周岁了，于是就有了这个庆祝会..."));
         EVENT_SINGLE_MAP.put("2017_05_01", new ArchiveVO("第一次玩射箭", "第一次玩，感觉还可以..."));
-//        EVENT_SINGLE_MAP.put("2017_05_08", new ArchiveVO("招待我们的马来西亚朋友siewyee", ""));
-//        EVENT_SINGLE_MAP.put("2017_06_04", new ArchiveVO("和表姐表妹聚下", ""));
+        EVENT_SINGLE_MAP.put("2017_05_08", new ArchiveVO("招待我和树莓在新西兰认识的秀仪", "我和树莓在新西兰认识的秀仪和家人来广州玩。我和树莓自然要陪一起玩耍..."));
+        EVENT_SINGLE_MAP.put("2017_06_04", new ArchiveVO("和表姐表妹聚会", "很久没和表姐表妹聚会了..."));
+		EVENT_SINGLE_MAP.put("2017_07_12", new ArchiveVO("幸运通过了软考高级——系统分析师", "3月份报考的软考高级——系统分析师..."));
+        EVENT_SINGLE_MAP.put("2017_07_15", new ArchiveVO("我和树莓的约会就是看电影", "我和树莓回到广州之后，不能像在新西兰每天都见了，于是争取周末时间见面..."));
+        EVENT_SINGLE_MAP.put("2017_07_29", new ArchiveVO("区块链团队的第一次团建", "第一次与隔壁组一起去玩..."));
+        EVENT_SINGLE_MAP.put("2017_08_12", new ArchiveVO("初中聚会有感，有自己的事业很重要", "初中小聚继续进行，和小明，高明，啊煲去打羽毛球..."));
+        EVENT_SINGLE_MAP.put("2017_08_14", new ArchiveVO("团队的分开", "这次7月底，我们做完一个车贷项目时候的团队合照..."));
+		EVENT_SINGLE_MAP.put("2017_09_30", new ArchiveVO("我与树莓的流水账1", "国庆来临啦！！！先祝福国庆快乐和中秋月饼节要过得开心..."));
 //		EVENT_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 		
 		//technique
