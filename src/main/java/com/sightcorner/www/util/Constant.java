@@ -222,6 +222,7 @@ public class Constant {
         EVENT_SINGLE_MAP.put("2017_08_14", new ArchiveVO("团队的分开", "这次7月底，我们做完一个车贷项目时候的团队合照..."));
 		EVENT_SINGLE_MAP.put("2017_09_30", new ArchiveVO("我与树莓的流水账1", "国庆来临啦！！！先祝福国庆快乐和中秋月饼节要过得开心..."));
 		EVENT_SINGLE_MAP.put("2017_11_09", new ArchiveVO("我与树莓的流水账2", "隔了1个多月了，感觉每次写文章，都是我和树莓的工作发生改变的时候。这篇也是，哈哈哈..."));
+		EVENT_SINGLE_MAP.put("2018_03_11", new ArchiveVO("说一下新零售", "话说上一篇文章的时候，居然已经是2017年的11月9号发的。距离现在3月11号，原来已经相隔了4个月了..."));
 //		EVENT_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 		
 		//technique
