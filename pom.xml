@@ -12,7 +12,7 @@
     <properties>
         <app.id>sightcorner</app.id>
         <app.version>1</app.version>
-        <appengine.version>1.9.4</appengine.version>
+        <appengine.version>1.9.59</appengine.version>
         <gcloud.plugin.version>0.9.58.v20150505</gcloud.plugin.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
