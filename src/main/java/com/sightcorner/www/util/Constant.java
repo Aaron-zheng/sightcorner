@@ -223,6 +223,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2017_09_30", new ArchiveVO("我与树莓的流水账1", "国庆来临啦！！！先祝福国庆快乐和中秋月饼节要过得开心..."));
 		EVENT_SINGLE_MAP.put("2017_11_09", new ArchiveVO("我与树莓的流水账2", "隔了1个多月了，感觉每次写文章，都是我和树莓的工作发生改变的时候。这篇也是，哈哈哈..."));
 		EVENT_SINGLE_MAP.put("2018_03_11", new ArchiveVO("说一下新零售", "话说上一篇文章的时候，居然已经是2017年的11月9号发的。距离现在3月11号，原来已经相隔了4个月了..."));
+		EVENT_SINGLE_MAP.put("2018_08_06", new ArchiveVO("我与树莓要买买买房子了", "好久没写文章，发现每次写一篇文章，都会感叹原来又没写文章了。最近发生的一件大事，就是我和树莓！决！定！买！房！子！了！！！..."));
 //		EVENT_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 		
 		//technique
@@ -259,23 +260,23 @@ public class Constant {
 //		TECHNIQUE_SINGLE_MAP.put("2016_08_24", new ArchiveVO("腾讯品牌视觉识别的统一性","腾讯 ISUX 团队发布了4个产品的品牌书..."));
 //		TECHNIQUE_SINGLE_MAP.put("2016_09_04", new ArchiveVO("TensorFlow 在 Mac 下的初体验", "最近在看内部文档的 \"How can you get started with machine learning\" 的时候，看到了 TensorFlow。于是就想去接触一下..."));
 //		TECHNIQUE_SINGLE_MAP.put("2016_10_25", new ArchiveVO("黑产业白皮书读后感", "朋友推荐，所以特意用了2天时间很快的把这个“黑产白皮书”都浏览一次。在看这本书之前，我一直认为所谓的黑产不外乎什么盗号或者广告的。看完之后，才发现之前的自己真的是 too young too simple..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_02", new ArchiveVO("java.lang.Object 的默认方法", "java.lang.Object..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_02_02", new ArchiveVO("java.lang.Object 的默认方法", "java.lang.Object..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_04", new ArchiveVO("MySQL安装和创建表时候的知识点", "官网下载，选择 download->community->mysql-x.x.x-macos_64.dmg..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_05", new ArchiveVO("初始的 Maven 项目搭建", "普通的 Web 项目搭建，其实通过 maven 基本可以把项目框架配备齐全..."));
 		TECHNIQUE_SINGLE_MAP.put("2017_02_06", new ArchiveVO("高并发秒杀的简单优化", "用户大量刷新..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_07", new ArchiveVO("安装Redis", "上官网 https://redis.io/ 选择稳定的版本下载..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_02_07", new ArchiveVO("安装Redis", "上官网 https://redis.io/ 选择稳定的版本下载..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_02_08", new ArchiveVO("Capability-Based Planning: The Link between Strategy and Enterprise Architecture", "..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_14", new ArchiveVO("Class 类文件结构", "Class 文件是以8位字节为基础单位的二进制流。Class 文件格式采用伪结构体来存储，这个结构中只有2种数据类型：无符号数，和表..."));
         TECHNIQUE_SINGLE_MAP.put("2017_02_15", new ArchiveVO("虚拟机 Class 类文件的加载机制", "Class 类的生命周期，是从被加载到虚拟机内存开始，到被卸载出内存..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("CentOS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("CentOS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_03_01", new ArchiveVO("Java 内存中的引用（强引用，软引用，弱引用，幻象引用）", "常见的新建一个对象，就是强引用了，这个强引用就不在垃圾回收器的处理列表中..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_02_20", new ArchiveVO("CentOS 搭建之 JDK 安装", "空出了点时间，打算买个 VPS 来锻炼下自己。比较了价格后，就选择了搬瓦工 (Bandwagon)，买的是19.9刀/年的套餐..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_02_21", new ArchiveVO("CentOS 搭建之 Tomcat 安装", "这次是安装 Web 服务器 Tomcat..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_03_01", new ArchiveVO("Java 内存中的引用（强引用，软引用，弱引用，幻象引用）", "常见的新建一个对象，就是强引用了，这个强引用就不在垃圾回收器的处理列表中..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_02", new ArchiveVO("Developing Plant Process Control Automation Standards", "An Overview for Utility Companies..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("CentOS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
+//        TECHNIQUE_SINGLE_MAP.put("2017_03_03", new ArchiveVO("CentOS 搭建之 Hadoop 安装", "确保已经安装好 Java 环境，然后可以下载安装 hadoop..."));
 //      TECHNIQUE_SINGLE_MAP.put("2017_03_04", new ArchiveVO("The Power of Enterprise Architecture Algorithms", "ABACUS - Algorithm based analysis of complex systems..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("CentOS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
+//        TECHNIQUE_SINGLE_MAP.put("2017_03_13", new ArchiveVO("CentOS 搭建之 MySQL 安装", "下载 mysql 的 tar.gz..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_14", new ArchiveVO("比特币的两把钥匙", "下载比特币钱包，公开钱包地址，收到比特币。那么如何确定真的收到钱..."));
-        TECHNIQUE_SINGLE_MAP.put("2017_03_15", new ArchiveVO("CentOS 搭建之 Jenkins", "修改 tomcat 中的端口号，把8080修改为9090..."));
+//        TECHNIQUE_SINGLE_MAP.put("2017_03_15", new ArchiveVO("CentOS 搭建之 Jenkins", "修改 tomcat 中的端口号，把8080修改为9090..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_17", new ArchiveVO("系统分析师之计算机组成原理与体系结构", "数据表示 R 进制转十进制使用按权展开法。十进制转 R 进制使用短除法..."));
 //      TECHNIQUE_SINGLE_MAP.put("2017_03_18", new ArchiveVO("系统分析师之系统配置与性能评价", "时钟频率法，386，486，586 就是 CPU 的芯片频率，即处理速度。现在已经不能作为衡量指标..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_03_19", new ArchiveVO("系统分析师之操作系统基本原理", "用来管理系统的硬件，软件，数据资源。控制程序运行..."));
@@ -283,7 +284,7 @@ public class Constant {
 //      TECHNIQUE_SINGLE_MAP.put("2017_03_29", new ArchiveVO("个人理解的比特币的区块链", "最近读了几本书，尝试勾划出，自己理解的比特币中区块链的理解图..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_01", new ArchiveVO("系统分析师之企业信息化战略与实施", "信息化战略与企业战略的集成..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_05", new ArchiveVO("系统分析师之系统规划", "投资回报率 (ROI) = 运营期年均净收益 / 投资总额 * 100% （叫 年投资回报率）..."));
-		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 HyperLedger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
+//		TECHNIQUE_SINGLE_MAP.put("2017_04_06", new ArchiveVO("超级账本 HyperLedger Fabric 1.0 安装配置", "记得开始之前，必须先坚持内核版本，如果 kernel 版本低于 3.10.0 的话，docker 就不支持..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_09", new ArchiveVO("系统分析师之软件工程", "瀑布模型：要求需求明确。软件计划-需求分析-软件设计-程序编码-软件测试-运行维护..."));
 //      TECHNIQUE_SINGLE_MAP.put("2017_04_10", new ArchiveVO("系统分析师之需求工程", "软件需求指 用户对系统在功能，行为，性能，设计约束等方面的期望..."));
 //		TECHNIQUE_SINGLE_MAP.put("2017_04_12", new ArchiveVO("系统分析师之软件架构设计", "需求分析-架构（鸿沟）-软件设计..."));
