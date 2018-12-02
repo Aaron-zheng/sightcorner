@@ -26,6 +26,8 @@ import com.sightcorner.www.controller.InitController;
  */
 public class PageUtility {
 
+    private static final String path = "http://sightcorner.oss-cn-beijing.aliyuncs.com";
+
     public static ModelAndView getInitialModelAndView(Map<String, Object> map) {
         Map<String, Object> result = new HashMap<String, Object>();
         result.put("number_archive", Constant.ARTICLE_SINGLE_MAP.size() + Constant.EVENT_SINGLE_MAP.size() + Constant.TECHNIQUE_SINGLE_MAP.size());
@@ -51,13 +53,13 @@ public class PageUtility {
                 result = content;
             } else {
                 result = content
-                        .replace("src=\"", "src=\"http://sightcorner.qiniudn.com")
-                        .replace("href=\"", "href=\"http://sightcorner.qiniudn.com")
-                        .replace("data-url=\"", "data-url=\"http://sightcorner.qiniudn.com")
+                        .replace("src=\"", "src=\"" + path)
+                        .replace("href=\"", "href=\"" + path)
+                        .replace("data-url=\"", "data-url=\"" + path)
 
-                        .replace("src='", "src='http://sightcorner.qiniudn.com")
-                        .replace("href='", "href='http://sightcorner.qiniudn.com")
-                        .replace("data-url='", "data-url='http://sightcorner.qiniudn.com")
+                        .replace("src='", "src='" + path)
+                        .replace("href='", "href='" + path)
+                        .replace("data-url='", "data-url='" + path)
                 ;
             }
         }
