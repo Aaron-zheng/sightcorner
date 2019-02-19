@@ -49,11 +49,12 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2012_02", new ArchiveVO("凤凰-张家界-长沙", "“K9064，14：06”，16小时后的我们将会在这个湘西古镇渡过学生生涯的最后一次电波之旅。..."));
 		ARTICLE_SINGLE_MAP.put("2012_09", new ArchiveVO("贵州-黄果树瀑布-西江千户苗寨", "毕业后工作的第一个长假——国庆假，23小时卧铺，4年前26小时硬座的勇气随着年龄增长已经不知道逃到哪里。..."));
 		ARTICLE_SINGLE_MAP.put("2013_04", new ArchiveVO("泰国-芭提雅-曼谷-清迈-拜县", "2013年4月9号，这次，是我们第一次出国啊！一直从别人口中听到国外的世界的花花绿绿，到现在正式踏出国门，感谢主，让我们开始认识世界。..."));
-		ARTICLE_SINGLE_MAP.put("2013_11", new ArchiveVO("暹粒-吴哥窟-西哈努克港-金边","刚下飞机时，tutu司机问我们来自新加坡还是日本，到我们启程回归祖国那天，tutu司机问我们是菲律宾人还是越南人。这趟旅程到底是晒得有多凶狠，到底被旅行成啥样了..."));
+		ARTICLE_SINGLE_MAP.put("2013_11", new ArchiveVO("柬埔寨-暹粒-吴哥窟-西哈努克港-金边","刚下飞机时，tutu司机问我们来自新加坡还是日本，到我们启程回归祖国那天，tutu司机问我们是菲律宾人还是越南人。这趟旅程到底是晒得有多凶狠，到底被旅行成啥样了..."));
 		ARTICLE_SINGLE_MAP.put("2014_04", new ArchiveVO("西宁-青海-敦煌-兰州","出发的时候，广州就开始下大雨，机场开始播报延迟起机的消息..."));
-		ARTICLE_SINGLE_MAP.put("2015_03", new ArchiveVO("河内-岘港-会安-芽庄-大叻-美奈-西贡","第一站河内，飞机是小飞机啦，不过南航好好地帮我们升级了机位..."));
+		ARTICLE_SINGLE_MAP.put("2015_03", new ArchiveVO("越南-河内-岘港-会安-芽庄-大叻-美奈-西贡","第一站河内，飞机是小飞机啦，不过南航好好地帮我们升级了机位..."));
         ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("瓦努阿图-斐济-汤加","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
-		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
+		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台湾-台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
+		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","..."));
 //      ARTICLE_SINGLE_MAP.put("", new ArchiveVO("","..."));
 		//event
 		EVENT_SINGLE_MAP.put("2012_09_15", new ArchiveVO("爱国需要抵制蠢货而不仅是日货", "2012年9月14号，中国6艘海监船抵达钓鱼岛..."));
