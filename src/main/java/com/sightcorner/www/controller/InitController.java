@@ -35,7 +35,7 @@ public class InitController {
 		AccessRecordDao.createAccessRecprd();
 		AccessRecordTotalDao.createUpdateAccessRecordTotal();
 		Map<String, Object> map = new HashMap<String, Object>();
-		map.put("tag", "event");
+		map.put("tag", "article");
 		return PageUtility.getInitialModelAndView(map);
 	}
 	

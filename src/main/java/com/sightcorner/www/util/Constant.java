@@ -54,7 +54,7 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2015_03", new ArchiveVO("越南-河内-岘港-会安-芽庄-大叻-美奈-西贡","第一站河内，飞机是小飞机啦，不过南航好好地帮我们升级了机位..."));
         ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("瓦努阿图-斐济-汤加","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
 		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台湾-台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
-		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","..."));
+		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","春节到春节到，我和树莓又出发了。这次旅行的目的地是印度！因为去参加树莓朋友的婚礼..."));
 //      ARTICLE_SINGLE_MAP.put("", new ArchiveVO("","..."));
 		//event
 		EVENT_SINGLE_MAP.put("2012_09_15", new ArchiveVO("爱国需要抵制蠢货而不仅是日货", "2012年9月14号，中国6艘海监船抵达钓鱼岛..."));
