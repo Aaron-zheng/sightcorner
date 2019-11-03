@@ -52,7 +52,9 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2013_11", new ArchiveVO("柬埔寨-暹粒-吴哥窟-西哈努克港-金边","刚下飞机时，tutu司机问我们来自新加坡还是日本，到我们启程回归祖国那天，tutu司机问我们是菲律宾人还是越南人。这趟旅程到底是晒得有多凶狠，到底被旅行成啥样了..."));
 		ARTICLE_SINGLE_MAP.put("2014_04", new ArchiveVO("西宁-青海-敦煌-兰州","出发的时候，广州就开始下大雨，机场开始播报延迟起机的消息..."));
 		ARTICLE_SINGLE_MAP.put("2015_03", new ArchiveVO("越南-河内-岘港-会安-芽庄-大叻-美奈-西贡","第一站河内，飞机是小飞机啦，不过南航好好地帮我们升级了机位..."));
-        ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("瓦努阿图-斐济-汤加","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
+		ARTICLE_SINGLE_MAP.put("2016_09", new ArchiveVO("瓦努阿图","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。..."));
+        ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("斐济-汤加","斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。..."));
+		ARTICLE_SINGLE_MAP.put("2016_11", new ArchiveVO("汤加","在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
 		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台湾-台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
 		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","春节到春节到，我和树莓又出发了。这次旅行的目的地是印度！因为去参加树莓朋友的婚礼..."));
 //      ARTICLE_SINGLE_MAP.put("", new ArchiveVO("","..."));
@@ -226,6 +228,7 @@ public class Constant {
 		EVENT_SINGLE_MAP.put("2017_11_09", new ArchiveVO("我与树莓的流水账2", "隔了1个多月了，感觉每次写文章，都是我和树莓的工作发生改变的时候。这篇也是，哈哈哈..."));
 		EVENT_SINGLE_MAP.put("2018_03_11", new ArchiveVO("说一下新零售", "话说上一篇文章的时候，居然已经是2017年的11月9号发的。距离现在3月11号，原来已经相隔了4个月了..."));
 		EVENT_SINGLE_MAP.put("2018_08_06", new ArchiveVO("我与树莓要买买买房子了", "好久没写文章，发现每次写一篇文章，都会感叹原来又没写文章了。最近发生的一件大事，就是我和树莓！决！定！买！房！子！了！！！..."));
+		EVENT_SINGLE_MAP.put("2019_09_28", new ArchiveVO("我与树莓结婚了", "我与树莓真的结婚了！！！..."));
 //		EVENT_SINGLE_MAP.put("", new ArchiveVO("", "..."));
 		
 		//technique
