@@ -46,7 +46,7 @@
 				    <h5 class="title"></h5>
 				    <div class="article-info"><span>SightCorner | 视角</span></div>
 				    <div class="article-info"><span>粤ICP备15004628号</span></div>
-				    <div class="article-info"><span>2012 - 2019</span></div>
+				    <div class="article-info"><span>2012 - 2020</span></div>
 			    </div>
 			</div>		
 			<div class="span9 offset3 recent-post">

@@ -57,7 +57,7 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2016_11", new ArchiveVO("汤加","在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
 		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台湾-台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
 		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","春节到春节到，我和树莓又出发了。这次旅行的目的地是印度！因为去参加树莓朋友的婚礼..."));
-		ARTICLE_SINGLE_MAP.put("2019_09", new ArchiveVO("法国巴黎-比利时布鲁塞尔","..."));
+		ARTICLE_SINGLE_MAP.put("2019_09", new ArchiveVO("法国巴黎-比利时布鲁塞尔","目的地法国，第一次出发欧洲，也是第一次办申根签证。看了网上的一些攻略，一开始也是想淘宝，但是查了很久发现和自己DIY办没区别..."));
 //      ARTICLE_SINGLE_MAP.put("", new ArchiveVO("","..."));
 		//event
 		EVENT_SINGLE_MAP.put("2012_09_15", new ArchiveVO("爱国需要抵制蠢货而不仅是日货", "2012年9月14号，中国6艘海监船抵达钓鱼岛..."));
