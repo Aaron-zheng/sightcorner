@@ -52,9 +52,9 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2013_11", new ArchiveVO("柬埔寨-暹粒-吴哥窟-西哈努克港-金边","刚下飞机时，tutu司机问我们来自新加坡还是日本，到我们启程回归祖国那天，tutu司机问我们是菲律宾人还是越南人。这趟旅程到底是晒得有多凶狠，到底被旅行成啥样了..."));
 		ARTICLE_SINGLE_MAP.put("2014_04", new ArchiveVO("西宁-青海-敦煌-兰州","出发的时候，广州就开始下大雨，机场开始播报延迟起机的消息..."));
 		ARTICLE_SINGLE_MAP.put("2015_03", new ArchiveVO("越南-河内-岘港-会安-芽庄-大叻-美奈-西贡","第一站河内，飞机是小飞机啦，不过南航好好地帮我们升级了机位..."));
-		ARTICLE_SINGLE_MAP.put("2016_09", new ArchiveVO("瓦努阿图","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。..."));
-        ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("斐济","斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。..."));
-		ARTICLE_SINGLE_MAP.put("2016_11", new ArchiveVO("汤加","在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
+		ARTICLE_SINGLE_MAP.put("2016_09", new ArchiveVO("瓦努阿图-维拉港-坦纳岛","在全球唯一的水底邮局邮寄明信片，跑去最最最亲近的活活活火山看上帝礼花。..."));
+        ARTICLE_SINGLE_MAP.put("2016_10", new ArchiveVO("斐济-楠迪-苏瓦-亚萨瓦岛","斐济，吃了椰子蟹，度过斐济国庆日，呆在最远的外岛亚萨瓦岛 (Yasawa) 浮潜。..."));
+		ARTICLE_SINGLE_MAP.put("2016_11", new ArchiveVO("汤加-汤加塔布","在 汤加 (Tonga) 和座头鲸 (Humpback Whale) 一起游泳..."));
 		ARTICLE_SINGLE_MAP.put("2018_10", new ArchiveVO("台湾-台北-九份-花莲","这次写的是国庆和树莓一起的旅游！目的地台湾！！！这篇写的是树莓的表情包为主..."));
 		ARTICLE_SINGLE_MAP.put("2019_02", new ArchiveVO("印度-德里-斋浦尔-阿格拉-班加罗尔","春节到春节到，我和树莓又出发了。这次旅行的目的地是印度！因为去参加树莓朋友的婚礼..."));
 		ARTICLE_SINGLE_MAP.put("2019_09", new ArchiveVO("法国巴黎-比利时布鲁塞尔","目的地法国，第一次出发欧洲，也是第一次办申根签证。看了网上的一些攻略，一开始也是想淘宝，但是查了很久发现和自己DIY办没区别..."));
