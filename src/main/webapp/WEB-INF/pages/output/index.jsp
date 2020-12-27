@@ -37,8 +37,8 @@
 					<div class="user-stats">
 						<ul class="clearfix">
 							<li><a id="record_count_1"><b>${number_archive}</b><span>文章</span></a></li>
-							<li><a id="record_count_3"><b>${number_guess}</b><span>访客</span></a></li>
-							<li><a id="record_count_4"><b>${number_like}</b><span>喜欢</span></a></li>
+							<%--<li><a id="record_count_3"><b>${number_guess}</b><span>访客</span></a></li>--%>
+							<%--<li><a id="record_count_4"><b>${number_like}</b><span>喜欢</span></a></li>--%>
 						</ul>
 					</div>
 				</div>
