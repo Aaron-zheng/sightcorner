@@ -60,6 +60,7 @@ public class Constant {
 		ARTICLE_SINGLE_MAP.put("2019_09", new ArchiveVO("法国巴黎-比利时布鲁塞尔","目的地法国，第一次出发欧洲，也是第一次办申根签证。看了网上的一些攻略，一开始也是想淘宝，但是查了很久发现和自己DIY办没区别..."));
 	  	ARTICLE_SINGLE_MAP.put("2020_10", new ArchiveVO("昆明-大理-丽江-泸沽湖-香格里拉","今年疫情，国庆黄金周要出去玩，可以选择的基本是国内。树莓在广州买了随心飞，我在杭州买了南航快乐飞..."));
 		ARTICLE_SINGLE_MAP.put("2021_10", new ArchiveVO("新疆-乌鲁木齐-禾木-喀纳斯-可可托海","秋天的新疆很美，这里也是防疫和安全天花板，虽然变化了几次，但还是运气不错的..."));
+		ARTICLE_SINGLE_MAP.put("2022_10", new ArchiveVO("青岛-泰山-济南","来青岛的第一天，树莓是广州飞青岛，我是从杭州飞青岛。青岛机场集合..."));
 //      ARTICLE_SINGLE_MAP.put("", new ArchiveVO("","..."));
 		//event
 		EVENT_SINGLE_MAP.put("2012_09_15", new ArchiveVO("爱国需要抵制蠢货而不仅是日货", "2012年9月14号，中国6艘海监船抵达钓鱼岛..."));
