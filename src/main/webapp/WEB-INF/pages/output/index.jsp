@@ -36,7 +36,9 @@
 					</div>
 					<div class="user-stats">
 						<ul class="clearfix">
-							<li><a id="record_count_1"><b>${number_archive}</b><span>文章</span></a></li>
+							<li><a id="record_count_1"><b>${number_article}</b><span>旅行</span></a></li>
+							<li><a id="record_count_2"><b>${number_event}</b><span>新西兰</span></a></li>
+							<%--<li><a id="record_count_1"><b>${number_archive}</b><span>文章</span></a></li>--%>
 							<%--<li><a id="record_count_3"><b>${number_guess}</b><span>访客</span></a></li>--%>
 							<%--<li><a id="record_count_4"><b>${number_like}</b><span>喜欢</span></a></li>--%>
 						</ul>
@@ -45,14 +47,14 @@
 				<div class="my-books">
 				    <h5 class="title"></h5>
 				    <div class="article-info"><span>SightCorner | 视角</span></div>
-				    <div class="article-info"><span>粤ICP备15004628号</span></div>
-				    <div class="article-info"><span>2012 - 2020</span></div>
+				    <%--<div class="article-info"><span>粤ICP备15004628号</span></div>--%>
+				    <div class="article-info"><span>2012 - 2023</span></div>
 			    </div>
 			</div>		
 			<div class="span9 offset3 recent-post">
 				<ul class="nav nav-tabs nav-articles">
-					<li id="li_article" style="display:none;"><a href="${pageContext.request.contextPath}/article">背包旅行</a></li>
-					<li id="li_event" style="display:none;"><a href="${pageContext.request.contextPath}/event">生活碎事</a></li>
+					<li id="li_article" style="display:none;"><a href="${pageContext.request.contextPath}/article">旅行</a></li>
+					<li id="li_event" style="display:none;"><a href="${pageContext.request.contextPath}/event">新西兰</a></li>
 					<li id="li_technique" style="display:none;"><a href="${pageContext.request.contextPath}/technique">技术黑板</a></li>
 					<li id="li_portfolio" style="display:none;"><a href="${pageContext.request.contextPath}/portfolio">相册</a></li>
 					<li id="li_about" style="display:none;"><a href="${pageContext.request.contextPath}/about">关于</a></li> 
@@ -70,7 +72,8 @@
 				$('#li_' + 'portfolio').show();
 			}else{
 				for(var index in arr){
-					if(arr[index] != 'about' && arr[index] != 'portfolio'){
+                    // 隐藏tag
+					if(arr[index] != 'about' && arr[index] != 'portfolio' && arr[index] != 'technique'){
 						$('#li_' + arr[index]).show();
 					}
 				}
@@ -79,7 +82,7 @@
 		}
 		function displayListContainer(tag){
 // 			if($('h1.title').length){return;}
-			if(tag == 'about' || tag == 'portfolio'){
+			if(tag == 'about' || tag == 'portfolio' || tag == 'technique'){
 				return;
 			}
 			$.post(
@@ -118,19 +121,19 @@
 		$(function(){
 			menuItemsDisplay();
 			displayListContainer('${tag}');
-			displayRecordCount();
+//			displayRecordCount();
 		});
 		
 		$('#like_button').click(function(){
-			$.post(
-				'${pageContext.request.contextPath}/like',
-				{},
-				function(){
-					$('#like_button').hide();
-					var likeNumber = Number($('#record_count_4 b').html());
-					$('#record_count_4 b').html(likeNumber+1);
-				}
-			);
+			<%--$.post(--%>
+				<%--'${pageContext.request.contextPath}/like',--%>
+				<%--{},--%>
+				<%--function(){--%>
+					<%--$('#like_button').hide();--%>
+					<%--var likeNumber = Number($('#record_count_4 b').html());--%>
+					<%--$('#record_count_4 b').html(likeNumber+1);--%>
+				<%--}--%>
+			<%--);--%>
 			return false;
 		});
 		</script>

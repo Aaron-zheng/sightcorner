@@ -34,6 +34,8 @@ public class PageUtility {
         result.put("number_portfolio", Constant.ARTICLE_SINGLE_MAP.size());
         result.put("number_like", 0);
         result.put("number_guess", 0);
+        result.put("number_article", Constant.ARTICLE_SINGLE_MAP.size());
+        result.put("number_event", Constant.EVENT_SINGLE_MAP.size());
         if (map.size() > 1) {
             result.put("load_main_content", "archive");
         } else {
@@ -66,26 +68,6 @@ public class PageUtility {
         return result;
     }
 
-
-    public static void main(String args[]) throws Exception {
-        String path = "/Users/zhengfucheng/Documents/workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/data/event/2016/README.md";
-//                "/Users/zhengfucheng/Downloads/README.md";
-                //"/Users/zhengfucheng/Documents/workspace/sightcorner/target/sightcorner-1.0-SNAPSHOT/WEB-INF/classes/data/event/2016/event_2016_11_13.sc";
-        InputStream is = new FileInputStream(new File(path));
-
-        BufferedReader bufferedReader = null;
-        StringBuffer content = new StringBuffer();
-        bufferedReader = new BufferedReader(
-                new InputStreamReader(
-                        is, "UTF-8"
-                )
-        );
-
-        String tmp;
-        while (null != (tmp = bufferedReader.readLine())) {
-            System.out.println(tmp);
-        }
-    }
 
 
     /**

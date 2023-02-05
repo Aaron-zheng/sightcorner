@@ -1970,7 +1970,7 @@
 .user .recent-post ul.latest-notes .title {
 	display: block;
 	margin-bottom: 6px;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: bold;
 	line-height: 40px
 }
@@ -2048,7 +2048,7 @@
 	}
 	.user .recent-post ul.latest-notes .title {
 		font-size: 20px;
-		line-height: 30px
+		line-height: 28px
 	}
 	.user .recent-post ul.latest-notes p {
 		font-size: 14px;
